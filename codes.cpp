@@ -1,6 +1,3 @@
-链接：https://www.nowcoder.com/questionTerminal/e0480b2c6aa24bfba0935ffcca3ccb7b?f=discussion
-来源：牛客网
-
 #include<iostream>
 #include<string>
 using namespace std;
